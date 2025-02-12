@@ -1,5 +1,7 @@
 # login_page
-FEATURES
+This is a simple login page application built using Express and MongoDB. The application allows users to register, log in, and store user credentials in a MongoDB database.
+
+FEATURES :-
 
 User Registration: Users can create a new account by providing a username and password.
 
@@ -9,7 +11,7 @@ MongoDB Database: User credentials (username and password) are securely stored i
 
 Express Server: A backend server using Express to handle HTTP requests and serve the login page.
 
-TECHNOLOGIES USED
+TECHNOLOGIES USED :-
 
 Node.js: JavaScript runtime for building the backend.
 
