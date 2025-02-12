@@ -1,8 +1,12 @@
 # login_page
 FEATURES
+
 User Registration: Users can create a new account by providing a username and password.
+
 User Login: Users can log in using their registered username and password.
+
 MongoDB Database: User credentials (username and password) are securely stored in MongoDB.
+
 Express Server: A backend server using Express to handle HTTP requests and serve the login page.
 
 TECHNOLOGIES USED
