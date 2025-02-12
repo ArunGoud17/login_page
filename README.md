@@ -21,6 +21,10 @@ MongoDB: NoSQL database for storing user data.
 
 bcrypt.js: Library to hash and compare passwords securely.
 
+first install the neccessary dependencies npm install
+    and Run the project npm start The application will be available at http://localhost:8086
+
+
 dotenv: To load environment variables like database connection strings.
 
 EJS: Templating engine for rendering HTML pages.
