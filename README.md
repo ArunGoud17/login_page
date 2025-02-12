@@ -10,10 +10,17 @@ MongoDB Database: User credentials (username and password) are securely stored i
 Express Server: A backend server using Express to handle HTTP requests and serve the login page.
 
 TECHNOLOGIES USED
+
 Node.js: JavaScript runtime for building the backend.
+
 Express.js: Web framework for building the server.
+
 MongoDB: NoSQL database for storing user data.
+
 bcrypt.js: Library to hash and compare passwords securely.
+
 dotenv: To load environment variables like database connection strings.
+
 EJS: Templating engine for rendering HTML pages.
+
 Mongoose: ODM (Object Data Modeling) library for MongoDB and Node.js.
