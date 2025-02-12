@@ -4,6 +4,7 @@ User Registration: Users can create a new account by providing a username and pa
 User Login: Users can log in using their registered username and password.
 MongoDB Database: User credentials (username and password) are securely stored in MongoDB.
 Express Server: A backend server using Express to handle HTTP requests and serve the login page.
+
 TECHNOLOGIES USED
 Node.js: JavaScript runtime for building the backend.
 Express.js: Web framework for building the server.
